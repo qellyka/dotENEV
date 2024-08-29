@@ -1,0 +1,206 @@
+{
+  "Supported languages": [
+    "en",
+    "ru",
+    "es",
+    "de",
+    "fr",
+    "it",
+    "pt",
+    "nl",
+    "sv",
+    "da",
+    "fi",
+    "no",
+    "pl",
+    "tr",
+    "cs",
+    "el",
+    "ro",
+    "lv",
+    "lt",
+    "et",
+    "hr",
+    "bg",
+    "uk",
+    "sr",
+    "mk",
+    "be",
+    "ka",
+    "hy",
+    "sq",
+    "vi",
+    "kk",
+    "tg",
+    "ky",
+    "tk",
+    "uz",
+    "tt",
+    "ba",
+    "cv",
+    "sah",
+    "kv"
+  ],
+  "Alphabets": {
+    "en": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyz",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    "ru": {
+      "lowercase": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+      "uppercase": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
+    },
+    "es": {
+      "lowercase": "abcdefghijklmnñopqrstuvwxyz",
+      "uppercase": "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
+    },
+    "de": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyzäöüß",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜẞ"
+    },
+    "fr": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyzàâæçéèêëîïôœùûüÿ",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZÀÂÆÇÉÈÊËÎÏÔŒÙÛÜŸ"
+    },
+    "it": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyz",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    "pt": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyzáâãàçéêíóôõúü",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZÁÂÃÀÇÉÊÍÓÔÕÚÜ"
+    },
+    "nl": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyz",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    "sv": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyzåäö",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"
+    },
+    "da": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyzæøå",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ"
+    },
+    "fi": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyzåäö",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"
+    },
+    "no": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyzæøå",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ"
+    },
+    "pl": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyząćęłńóśźż",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZĄĆĘŁŃÓŚŹŻ"
+    },
+    "tr": {
+      "lowercase": "abcçdefgğhıijklmnoöpqrsştuüvyz",
+      "uppercase": "ABCÇDEFGĞHIİJKLMNOÖPQRSŞTUÜVYZ"
+    },
+    "cs": {
+      "lowercase": "aábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž",
+      "uppercase": "AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽ"
+    },
+    "el": {
+      "lowercase": "αβγδεζηθικλμνξοπρστυφχψω",
+      "uppercase": "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"
+    },
+    "ro": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyz",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    "lv": {
+      "lowercase": "aābcčdeēfgģhiījkķlļmnņoprsštuūvzž",
+      "uppercase": "AĀBCČDEĒFGĢHIĪJKĶLĻMNŇOPRSŠTUŪVZŽ"
+    },
+    "lt": {
+      "lowercase": "aąbcčdeęėfghiįjklmnoprsštuųūvzž",
+      "uppercase": "AĄBCČDEĘĖFGHIĮJKLMNOPRSŠTUŲŪVZŽ"
+    },
+    "et": {
+      "lowercase": "abcdefghijklmnoprsšzžtuvwõäöüxy",
+      "uppercase": "ABCDEFGHIJKLMNOPRSŠZŽTUVWÕÄÖÜXY"
+    },
+    "hr": {
+      "lowercase": "abcčćddžđefghijklmnoprsštuvzž",
+      "uppercase": "ABCČĆDDŽĐEFGHIJKLMNOPRSŠTUVZŽ"
+    },
+    "bg": {
+      "lowercase": "абвгдежзийклмнопрстуфхцчшщъьюя",
+      "uppercase": "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯ"
+    },
+    "uk": {
+      "lowercase": "абвгґдеєжзиіїйклмнопрстуфхцчшщьюя",
+      "uppercase": "АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ"
+    },
+    "sr": {
+      "lowercase": "абвгдђежзијклљмнњопрстћуфхцчџш",
+      "uppercase": "АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ"
+    },
+    "mk": {
+      "lowercase": "абвгдѓежзѕијклљмнњопрстќуфхцчџш",
+      "uppercase": "АБВГДЃЕЖЗЅИЈКЛЉМНЊОПРСТЌУФХЦЧЏШ"
+    },
+    "be": {
+      "lowercase": "абвгдежзійклмнопрстуўфхцчшыьэюя",
+      "uppercase": "АБВГДЕЖЗІЙКЛМНОПРСТУЎФХЦЧШЫЬЭЮЯ"
+    },
+    "ka": {
+      "lowercase": "აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰ",
+      "uppercase": "აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰ"
+    },
+    "hy": {
+      "lowercase": "աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցուփքօֆ",
+      "uppercase": "ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՈՒՓՔՕՖ"
+    },
+    "sq": {
+      "lowercase": "abcdefghijklmnopqrstuvwxyz",
+      "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    "vi": {
+      "lowercase": "aăâbcdđeêghiklmnoôơpqrstuưvxy",
+      "uppercase": "AĂÂBCDĐEÊGHIKLMNOÔƠPQRSTUƯVXY"
+    },
+    "kk": {
+      "lowercase": "аәбвгғдежзийкқлмнңоөпрстуұүфхһцчшщъыіьэюя",
+      "uppercase": "АӘБВГҒДЕЖЗИЙКҚЛМНҢОӨПРСТУҰҮФХҺЦЧШЩЪЫІЬЭЮЯ"
+    },
+    "tg": {
+      "lowercase": "аӯбвгдежзийклмнопрстуфхчшъэюяғӣқ",
+      "uppercase": "АӮБВГДЕЖЗИЙКЛМНОПРСТУФХЧШЪЭЮЯҒӢҚ"
+    },
+    "ky": {
+      "lowercase": "аәбвгдееёжзийклмнңоөпрстуүфхцчшщъыьэюя",
+      "uppercase": "АӘБВГДЕЕЁЖЗИЙКЛМНҢОӨПРСТУҮФХЦЧШЩЪЫЬЭЮЯ"
+    },
+    "tk": {
+      "lowercase": "aäbcçdefgģhijklmnňoöpqrsştuüwýzž",
+      "uppercase": "AÄBCÇDEFGĢHIJKLMNŇOÖPQRSŞTUÜWÝZŽ"
+    },
+    "uz": {
+      "lowercase": "abcçdefgğhiıjklmnopqrsştuüvwxyz",
+      "uppercase": "ABCÇDEFGĞHIİJKLMNOPQRSŞTUÜVWXYZ"
+    },
+    "tt": {
+      "lowercase": "aäbcçdefgğhiıjklmnñoöpqrsştuüvwxyz",
+      "uppercase": "AÄBCÇDEFGĞHIİJKLMNNÖPQRSŞTUÜVWXYZ"
+    },
+    "ba": {
+      "lowercase": "aäbcçdefgğhiıjklmnñoöpqrsştuüvwxyz",
+      "uppercase": "AÄBCÇDEFGĞHIİJKLMNNÖPQRSŞTUÜVWXYZ"
+    },
+    "cv": {
+      "lowercase": "aăbcdefghijklmnoprśŝtuüvxyz",
+      "uppercase": "AĂBCDEFGHIJKLMNOPRŚŜTUÜVXYZ"
+    },
+    "sah": {
+      "lowercase": "aäbcdefghijklmnñoprstuy",
+      "uppercase": "AÄBCDEFGHIJKLMNÑOPRSTUY"
+    },
+    "kv": {
+      "lowercase": "аӧбвгдежзийклмнопрстуфхцчшщъыьэюя",
+      "uppercase": "АӦБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
+    }
+  }
+}
